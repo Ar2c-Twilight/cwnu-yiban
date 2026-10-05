@@ -2,4 +2,4 @@
 仿造易班app“日常请假”的iOS小软件，方便用来给老师看。
 
 ## 截图
-![示例](./Screenshot_1.png)
+![示例](./Screenshot_1.jpeg)
